@@ -1,0 +1,53 @@
+.nationality{
+    position:relative;
+    left:350px;
+    bottom:60px;
+}
+.id-no{
+ position:relative;
+ bottom:45px;
+
+}
+.title{
+    position:relative;
+    left:350px;
+    bottom:130px;
+}
+.gender{
+    position:relative;
+    left:350px;
+    bottom:120px;
+}
+.guardian{
+    position:relative;
+    bottom:80px;
+}
+.permanent{
+    position:relative;
+    bottom:60px;
+}
+.address{
+    position:relative;
+    bottom:50px;
+}
+.fax{
+    position:relative;
+    left:350px;
+    bottom:125px;
+}
+body{
+  text-align: left;
+}
+.image{
+  position: relative;
+  left: 250px;
+  padding: 5%;
+}
+.passport{
+    position:relative;
+    left:330px;
+    padding: 5%;
+}
+h1{
+  padding: 2%;
+}
